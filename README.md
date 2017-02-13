@@ -1,20 +1,12 @@
 # DAWM07UF2-1-Servlets-exercicis
 
-![alt tag](https://github.com/sergigrau/DAWM06UF1234-HTML5-material/blob/master/imatges/logo.png)
+![alt tag](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
 
-<p>
-Solved Exercices DAWM07UF2.1 Servlets
-Set of solved exercices of
-programming web applications in server side.
-</p>
-<p>
-<i>
-solució dels exercicis DAWM07UF2.1 Servlets
-Conjunt d'exercicis resolts de desenvolupament s'aplicacions web en entorn client.
+h1>Class exercises of Servlets</h1>
 
-</i>
-</p>
-<p>
-Keywords: back-end developer, java, javaEE, Servlets
-</p>
+<ol>
+<li>Basic</li>
+
+</ol>
+
 
