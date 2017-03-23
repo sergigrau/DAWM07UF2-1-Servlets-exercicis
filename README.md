@@ -5,8 +5,17 @@
 h1>Class exercises of Servlets</h1>
 
 <ol>
-<li>Basic</li>
-
+<li>Web descriptor</li>
+<li>servlet's cycle of live</li>
+<li>servlet's cycle of live</li>
+<li>Request HTTP. parameters</li>
+<li>Request HTTP. multiple parameters</li>
+<li>Request HTTP. Apache Commons</li>
+<li>Request HTTP. Uploading</li>
+<li>Request HTTP. parameters</li>
+<li>Response HTTP. user agent</li>
+<li>Response HTTP. HTTP status</li>
+<li>Response HTTP. content-type</li>
+<li>Response HTTP. cookies</li>
+<li>Response HTTP. sessions</li>
 </ol>
-
-
