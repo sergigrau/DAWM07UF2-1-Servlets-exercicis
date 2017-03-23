@@ -12,7 +12,6 @@ h1>Class exercises of Servlets</h1>
 <li>Request HTTP. multiple parameters</li>
 <li>Request HTTP. Apache Commons</li>
 <li>Request HTTP. Uploading</li>
-<li>Request HTTP. parameters</li>
 <li>Response HTTP. user agent</li>
 <li>Response HTTP. HTTP status</li>
 <li>Response HTTP. content-type</li>
